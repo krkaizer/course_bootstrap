@@ -150,6 +150,10 @@ footer .btn {
     border-radius: 50%;
 }
 
+footer .btn i {
+    margin-top: -2px;
+}
+
 /* цвет */
 .color1{
     color: var(--color1);
